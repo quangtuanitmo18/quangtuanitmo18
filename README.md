@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working on [Lectron](https://www.lectron.com/)
 
-- 🌱 I’m currently learning **docker, kubernetes, jenkins**
-
 - 💬 Ask me about **reactjs, nextjs, php, laravel, nodejs**
 
 - 📫 How to reach me **quangtuanitmo18@gmail.com**
