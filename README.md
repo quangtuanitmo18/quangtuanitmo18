@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nguyen Quang Tuan</h1>
-<h3 align="center">A passionate full stack developer from Viet Nam. I'm a 3rd year student of Information Security at ITMO University, Russia.</h3>
-
-- 🔭 I’m currently working on [Lectron](https://www.lectron.com/)
+<h3 align="center">A passionate full stack developer from Viet Nam. I'm a 4th year student of Information Security at ITMO University, Russia.</h3>
 
 - 💬 Ask me about **reactjs, nextjs, php, laravel, nodejs**
 
