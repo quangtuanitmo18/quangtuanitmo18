@@ -1,3 +1,8 @@
+
+###
+
+<img align="right" height="500" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2c2NDhjcXdpNG9mbzM4OTQ0OWo3YmZ2aXN1NTNnejRjcjJtODVvZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/oFYKw5OTZBZzVONpUh/giphy.gif"  />
+
 <h2 align="left">Hi 👋! My name is Quang Tuan and I'm a fullstack developer from Viet Nam</h2>
 
 ###
@@ -7,9 +12,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=quangtuanitmo18&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-###
-
-<img align="right" height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2c2NDhjcXdpNG9mbzM4OTQ0OWo3YmZ2aXN1NTNnejRjcjJtODVvZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/oFYKw5OTZBZzVONpUh/giphy.gif"  />
 
 ###
 
